@@ -1,4 +1,4 @@
-package com.sxau.pattern.strategies;
+package com.sxau.demo.strategies;
 
 /**
  * Order class. Doesn't know the concrete payment method (strategy) user has

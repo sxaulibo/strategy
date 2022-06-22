@@ -1,4 +1,4 @@
-package com.sxau.pattern.strategies;
+package com.sxau.demo.strategies;
 
 /**
  * Dummy credit card class.
